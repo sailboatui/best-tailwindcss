@@ -1,2 +1,3 @@
-# best-tailwindcss
-Best thing for Tailwind CSS,Including plugins, cases, tools.
+# Best Tailwind CSS
+
+Best thing for Tailwind CSS, including components, plugins, cases, tools.
